@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+click = "7.1.2"
+tinydb = "3.15.1"
+six = "*"
+mongo = "*"
+pymongo = "*"
+tasks = {path = "./ch2/tasks_proj"}
 
 [dev-packages]
 autopep8 = "*"

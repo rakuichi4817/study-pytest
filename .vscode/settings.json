@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+    "ch2\\tasks_proj\\src",
+]
+}
