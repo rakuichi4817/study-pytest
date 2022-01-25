@@ -11,6 +11,7 @@ six = "*"
 mongo = "*"
 pymongo = "*"
 tasks = {path = "./ch2/tasks_proj"}
+pytest-nice = {path = "./ch5/pytest-nice"}
 
 [dev-packages]
 autopep8 = "*"
